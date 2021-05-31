@@ -1,0 +1,7 @@
+C:\Users\User_11\source\repos\задание 13\bin\Debug\задание 13.exe.config
+C:\Users\User_11\source\repos\задание 13\bin\Debug\задание 13.exe
+C:\Users\User_11\source\repos\задание 13\bin\Debug\задание 13.pdb
+C:\Users\User_11\source\repos\задание 13\obj\Debug\задание 13.csprojAssemblyReference.cache
+C:\Users\User_11\source\repos\задание 13\obj\Debug\задание 13.csproj.CoreCompileInputs.cache
+C:\Users\User_11\source\repos\задание 13\obj\Debug\задание 13.exe
+C:\Users\User_11\source\repos\задание 13\obj\Debug\задание 13.pdb
