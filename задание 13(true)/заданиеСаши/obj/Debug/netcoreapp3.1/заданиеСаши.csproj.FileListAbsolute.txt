@@ -1,0 +1,13 @@
+C:\Users\andre\source\repos\заданиеСаши\заданиеСаши\obj\Debug\netcoreapp3.1\заданиеСаши.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\заданиеСаши\заданиеСаши\obj\Debug\netcoreapp3.1\заданиеСаши.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\заданиеСаши\заданиеСаши\obj\Debug\netcoreapp3.1\заданиеСаши.AssemblyInfo.cs
+C:\Users\andre\source\repos\заданиеСаши\заданиеСаши\obj\Debug\netcoreapp3.1\заданиеСаши.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\заданиеСаши\заданиеСаши\bin\Debug\netcoreapp3.1\заданиеСаши.exe
+C:\Users\andre\source\repos\заданиеСаши\заданиеСаши\bin\Debug\netcoreapp3.1\заданиеСаши.deps.json
+C:\Users\andre\source\repos\заданиеСаши\заданиеСаши\bin\Debug\netcoreapp3.1\заданиеСаши.runtimeconfig.json
+C:\Users\andre\source\repos\заданиеСаши\заданиеСаши\bin\Debug\netcoreapp3.1\заданиеСаши.runtimeconfig.dev.json
+C:\Users\andre\source\repos\заданиеСаши\заданиеСаши\bin\Debug\netcoreapp3.1\заданиеСаши.dll
+C:\Users\andre\source\repos\заданиеСаши\заданиеСаши\bin\Debug\netcoreapp3.1\заданиеСаши.pdb
+C:\Users\andre\source\repos\заданиеСаши\заданиеСаши\obj\Debug\netcoreapp3.1\заданиеСаши.dll
+C:\Users\andre\source\repos\заданиеСаши\заданиеСаши\obj\Debug\netcoreapp3.1\заданиеСаши.pdb
+C:\Users\andre\source\repos\заданиеСаши\заданиеСаши\obj\Debug\netcoreapp3.1\заданиеСаши.genruntimeconfig.cache
